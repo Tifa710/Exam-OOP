@@ -27,7 +27,7 @@ namespace Exam_OOP
                 }
                 else
                 {
-                    Console.WriteLine("Your answer is wrong, try again.");
+                    Console.WriteLine("Your answer is wrong, Please try again.");
                 }
             }
         }
